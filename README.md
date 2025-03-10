@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! eu sou Filipe ✌️
 
-<!--
-**filipesec/filipesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipecostab0/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filipy635@gmail.com)
 
-Here are some ideas to get you started:
+![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=filipesec&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+
+<div style="Display: inline_block"><br/>
+<img align="center" alt="htm15" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="center" alt="htm15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div><br/>
+Sempre tentando contribuir com a humanidade.
