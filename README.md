@@ -1,4 +1,4 @@
-## Olá! eu sou Filipe 👋
+## Hey! I am Filipe 👋
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filipy635@gmail.com) <p>filipy635@gmail.com</p>
 
