@@ -1,12 +1,1 @@
 ## Hey! I am Filipe 👋
-
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filipy635@gmail.com) <p>filipy635@gmail.com</p>
-
-![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=filipesec&show_icons=true&theme=dracula)
-
-## Linguagens
-
-<div style="Display: inline_block"><br/>
-<img align="center" alt="htm15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div><br/>
-Estudante de programação
